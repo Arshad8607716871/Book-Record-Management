@@ -1,7 +1,7 @@
-#view {
-  border-style: solid;
-  border-color: rebeccapurple;
-  width: 800px;
+#view{
+    border-style: solid;
+    border-color: rgb(64, 51, 78);
+    width: 800px;
 }
 #row1 {
   background-color: rgb(56, 31, 82);
