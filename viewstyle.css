@@ -1,11 +1,11 @@
-#view{
-    border-style: solid;
-    border-color: rebeccapurple;
-    width: 800px;
+#view {
+  border-style: solid;
+  border-color: rebeccapurple;
+  width: 800px;
 }
-#row1{
-    background-color: rebeccapurple;
+#row1 {
+  background-color: rgb(92, 44, 139);
 }
-#row2{
-    background-color: rosybrown;
+#row2 {
+  background-color: rosybrown;
 }
